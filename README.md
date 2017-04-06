@@ -1,4 +1,4 @@
-# cedecast-advanced
+# codecast-advanced
 
 > Projeto Aulas vue advanced codecasts
 
@@ -20,4 +20,5 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+Link screencasts:
 https://codecasts.com.br/series/vuejs-advanced
